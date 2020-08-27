@@ -72,7 +72,7 @@ DOWNLOADER_MIDDLEWARES = {
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   # 'fang.pipelines.FangPipeline': 300,
+    'fang.pipelines.FangPipeline': 300,
    # 'fang.pipelines.MongoPipeline': 400,
    # 'fang.pipelines.MysqlPipeline': 500,
 
