@@ -23,7 +23,7 @@ class HomeSpider(scrapy.Spider):
         trs = response.xpath('//div[@class="outCont"]//tr')
         province =None
         for tr in trs:
-            print("--------------------", type(tr), tr)
+            #print("--------------------", type(tr), tr)
             tds = tr.xpath('.//td[not(@class)]')
             province_id = tds[0]
             province_text = province_id.xpath('.//text()').get()
@@ -33,10 +33,18 @@ class HomeSpider(scrapy.Spider):
             # 不爬取海外城市的消息
             if province == '其它':
                 continue
+            if province != '广西':
+                #print("忽略 ", province)
+                continue
+            print("不忽略 ", province)
             city_id = tds[1]
             city_links = city_id.xpath('.//a')
             for city_link in city_links:
                 city = city_link.xpath('.//text()').get()
+                if city != '南宁':
+                    print("忽略 ", city)
+                    continue
+                print("不忽略 ", city)
                 city_url = city_link.xpath('.//@href').get()
                 # 构建新房链接
                 url_module = city_url.split('//')
@@ -184,7 +192,7 @@ class HomeSpider(scrapy.Spider):
         house_name, new_code = response.meta.get('info')
         # <p class="intro">
         house_intro = response.xpath('.//p[@class="intro"]/text()').get()
-        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>", house_intro)
+        #print(">>>>>>>>>>>>>>>>>>>>>>>>>>>", house_intro)
         item = HouseIntroItem()
         #house_intro = response.xpath('//div[contains(@class,"shop_list")]/dl')
         item['name'] = house_name
