@@ -1,1 +1,1863 @@
-{"explain": {"details": "this is for josn test", "used": true}, "version": "1.0", "results": {"\u826f\u5e86": [{"address": "\u826f\u5e86\u90a3\u9ec4\u5927\u9053129\u53f7", "area": "70~125\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u4e94\u8c61\u6f9c\u5ead\u5e9c", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://lantingfuwx.fang.com/", "price": "16000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u9f99\u5824\u8def1\u53f7", "area": "125~224\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u76db\u90a6\u6ee8\u6c5f\u5e9c", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://binjiangfusb.fang.com/", "price": "17000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u6021\u548c\u8def1-1\u53f7", "area": "69~142\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u8363\u548c\u534a\u5c71\u534e\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://banshanhuafurh.fang.com/", "price": "8500\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u826f\u7389\u5927\u9053\u4e0e\u7389\u8c61\u8def\u4ea4\u4f1a\u5904", "area": "99~142\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u8def\u6865\u58ee\u7f8e\u5c71\u6e56", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://zhuangmeishanhulq.fang.com/", "price": "13000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u5e73\u4e50\u5927\u905335\u53f7(\u5357\u5b81\u4e09\u4e2d\u4e94\u8c61\u6821\u533a\u659c\u5bf9\u9762)", "area": "91~146\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u5357\u5b81\u5b9d\u80fd\u57ce", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://wuxianghuyihaobn.fang.com/", "price": "17000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u94f6\u6d77\u5927\u9053975-1\u53f7(\u94f6\u6d77\u5927\u9053\u4e0e\u51e4\u51f0\u8def\u4ea4\u4f1a\u5904)", "area": "39~120\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u7956\u9f99ACMALL", "city": "\u5357\u5b81", "rooms": ["1\u5c45", "2\u5c45", "3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://zulongacmall.fang.com/", "price": "12500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u4e94\u8c61\u5927\u9053658\u53f7(\u4e94\u8c61\u5927\u9053\u4e0e\u98de\u9f99\u8def\u4ea4\u4f1a\u5904)", "area": "", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "DK\u56fd\u9645", "city": "\u5357\u5b81", "rooms": [], "origin_url": "https://dkguoji.fang.com/", "price": "9999\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u9f99\u5824\u8def11\u53f7", "area": "93~265\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u5e7f\u6e90\u534e\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://guangyuanhuafu.fang.com/", "price": "15000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u94f6\u6d77\u5927\u90531223-1\u53f7", "area": "75~125\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u65ed\u8f89\u6c5f\u5c71\u6a3e", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45"], "origin_url": "https://jiangshanyuexh0771.fang.com/", "price": "\u4ef7\u683c\u5f85\u5b9a", "sale": "\u5f85\u552e"}, {"address": "\u826f\u5e86\u826f\u7389\u5927\u905330\u53f7(\u5357\u5b81\u4e09\u4e2d\u4e94\u8c61\u6821\u533a\u5317\u95e8\u5bf9\u9762)", "area": "99~192\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u5f70\u6cf0\u5e9c", "city": "\u5357\u5b81", "rooms": ["4\u5c45"], "origin_url": "https://zhangtaifu.fang.com/", "price": "19000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u5357\u5b81\u56fd\u9645\u65c5\u6e38\u5ea6\u5047\u533a\u65c1", "area": "76~125\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u4e2d\u5357\u5341\u6d32", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://zhongnanshizhou.fang.com/", "price": "\u4ef7\u683c\u5f85\u5b9a", "sale": "\u5f85\u552e"}, {"address": "\u826f\u5e86\u826f\u5e86\u5927\u90539\u53f7(\u826f\u5e86\u5927\u6865\u5357)", "area": "70~124\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u9f99\u5149\u7396\u8a89\u6e56", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://jiuyuhulg.fang.com/", "price": "12500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u5e73\u4e50\u5927\u905359\u53f7(\u5e73\u4e50\u5927\u9053\u4e0e\u534e\u5b89\u8def\u4ea4\u4f1a\u5904)", "area": "88~142\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u5efa\u5de5\u57ce", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://jiangongcheng.fang.com/", "price": "10500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u575b\u6d0b\u8def3\u53f7(\u4e94\u8c61\u56db\u5c0f\u5bf9\u9762)", "area": "106~143\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u5efa\u53d1\u592e\u73ba", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://jianfayangxi0771.fang.com/", "price": "19000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u90a3\u826f\u8def16\u53f7", "area": "85~123\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u5370\u8c61\u6109\u666f\u6e7e", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://yujingwanyx.fang.com/", "price": "10200\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u5e73\u4e50\u5927\u9053\u4e0e\u90a3\u4e30\u8def\u4ea4\u4f1a\u5904", "area": "70~108\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u9633\u5149\u57ce\u5927\u5510\u4e16\u5bb6", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://yangguangchengdatangshijia.fang.com/", "price": "11000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u5e73\u4e50\u5927\u905326\u53f7(\u5e73\u4e50\u5927\u9053\u4e0e\u51e4\u51f0\u8def\u4ea4\u4f1a\u5904)", "area": "60~165\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u9f99\u5149\u5929\u701b", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://longguangtianying0771.fang.com/", "price": "21500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u5e73\u4e50\u5927\u905350\u53f7", "area": "30~155\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u9f99\u5149\u7396\u73d1\u90e1", "city": "\u5357\u5b81", "rooms": ["1\u5c45", "2\u5c45", "4\u5c45"], "origin_url": "https://jiulongjunlg0771.fang.com/", "price": "8300\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u7389\u6d1e\u5927\u905376\u53f7", "area": "91~99\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u5408\u666f\u53e0\u7fe0\u5cf0", "city": "\u5357\u5b81", "rooms": ["3\u5c45"], "origin_url": "https://diecuifenghj0771.fang.com/", "price": "11900\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u826f\u5174\u8def18\u53f7", "area": "108~128\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u76db\u90a6\u73d1\u60a6", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://shengbanglongyue.fang.com/", "price": "12500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u51e4\u51f0\u8def188\u53f7", "area": "100~143\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u91d1\u79d1\u535a\u7fe0\u5c71", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://bocuishanjk.fang.com/", "price": "15000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u9f99\u5824\u8def51\u53f7(\u5357\u5b81\u5927\u6865\u65c1\u00b7\u6b63\u671b\u8354\u56ed\u5c71\u5e84)", "area": "124~355\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u6c5f\u5c71\u5fa1\u666f", "city": "\u5357\u5b81", "rooms": ["4\u5c45"], "origin_url": "https://jiangshanyujing0771.fang.com/", "price": "15000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u4e94\u8c61\u5927\u9053450\u53f7(\u4e94\u8c61\u5c0f\u5b66\u65c1)", "area": "72~222\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u6c49\u519b\u51a0\u6c5f\u53f0", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://guanjiangtaihj.fang.com/", "price": "13000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u826f\u5e86\u7389\u6d1e\u5927\u905330\u53f7(\u5357\u5b81\u5e02\u5e02\u56fe\u4e66\u9986\u65c1)", "area": "99~141\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u9f99\u5149\u5929\u5bb8", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://longguangtianque0771.fang.com/", "price": "17000\u5143/\u33a1\u8d77", "sale": "\u5f85\u552e"}, {"address": "\u826f\u5e86\u4e1c\u98ce\u8def51\u53f7(\u4e1c\u98ce\u8def\u548c\u51e4\u51f0\u8def\u4ea4\u4f1a\u5904)", "area": "", "province": "\u5e7f\u897f", "district": "\u826f\u5e86", "name": "\u4e94\u8c61\u6e56\u91d1\u7396\u4e16\u5bb6", "city": "\u5357\u5b81", "rooms": [], "origin_url": "https://jinjiushijiawxh.fang.com/", "price": "\u4ef7\u683c\u5f85\u5b9a", "sale": "\u5f85\u552e"}], "\u897f\u4e61\u5858": [{"address": "\u897f\u4e61\u5858\u5927\u5b66\u4e1c\u8def19\u53f7", "area": "90~143\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u6d0b\u6d66\u661f", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://yangpuxing.fang.com/", "price": "12500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u5317\u6e56\u5317\u8def\u4e1c\u4e09\u91cc12\u53f7", "area": "55~114\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u5f53\u4ee3\u9526\u56ed\u039c\u039f\u039c\u039b", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://dangdaijinyuan.fang.com/", "price": "10500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u5927\u5b66\u4e1c\u8def162\u53f7", "area": "63~131\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u5cf0\u5de2", "city": "\u5357\u5b81", "rooms": ["1\u5c45", "2\u5c45", "3\u5c45"], "origin_url": "https://fengchao0771.fang.com/", "price": "10888\u5143/\u33a1\u8d77", "sale": "\u5f85\u552e"}, {"address": "\u897f\u4e61\u5858\u53d1\u5c55\u5927\u905366\u53f7 (\u534e\u5c14\u8857\u5de5\u8c37\u65c1)", "area": "99~178\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u4e2d\u56fd\u94c1\u5efa\u5b89\u5409\u5c71\u8bed\u57ce", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://anjishanyuchengzgtj.fang.com/", "price": "12500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u5317\u6e56\u5357\u8def23\u53f7(\u5377\u70df\u5382\u5bf9\u9762)", "area": "110~142\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u534e\u6da6\u4e07\u8c61\u534e\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://wanxianghuafuhr.fang.com/", "price": "12000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u6c38\u548c\u8def17\u53f7(\u701a\u6797\u65b0\u57ce\u65c1)", "area": "92~126\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u878d\u521b\u878d\u516c\u9986", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://hanlinjincheng0771.fang.com/", "price": "10500\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u65b0\u5cf0\u8def90\u53f7", "area": "79~105\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u76db\u4e16\u91d1\u60a6", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://shengshijinyue.fang.com/", "price": "9700\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u7f57\u6587\u5927\u9053\u4e0e\u76f8\u601d\u6e56\u5317\u8def\u4ea4\u4f1a\u5904(\u76f8\u601d\u6e56\u5317\u8def\u5f80\u524d100\u7c73)", "area": "88~109\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u9f99\u6e56\u6625\u6c5f\u5929\u8d8a", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://chunjiangtianyuelh0771.fang.com/", "price": "10350\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u5317\u5927\u5317\u8def28\u53f7(\u539f\u5317\u5927\u5ba2\u8fd0\u4e2d\u5fc3\u65e7\u5740)", "area": "73~128\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u5efa\u53d1\u9f0e\u534e\u5317\u5927\u73d1\u5ef7", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://yuexijfdh.fang.com/", "price": "12000\u5143/\u33a1", "sale": "\u5f85\u552e"}, {"address": "\u897f\u4e61\u5858\u65b0\u5cf0\u8def\u4e0e\u53d1\u5c55\u5927\u9053\u4ea4\u4f1a\u5904", "area": "110~129\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u51a0\u5229\u5e78\u798f\u82d1", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://xingfuyuangl.fang.com/", "price": "11200\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u65b0\u9633\u8def296-1\u53f7", "area": "89~165\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u5929\u5065\u57ce\u5929\u5883", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://tianjiancheng.fang.com/", "price": "11000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u660e\u79c0\u897f\u8def176\u53f7", "area": "89~138\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u9f99\u5149\u6c34\u60a6\u9f99\u6e7e\u5fa1\u6c5f", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://shuiyuelongwanyujianglg.fang.com/", "price": "10650\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u5927\u5b66\u4e1c\u8def154\u53f7", "area": "91~116\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u5965\u56ed\u701a\u6797\u8a89\u6c5f\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://yujiangfuayhl.fang.com/", "price": "12000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u5927\u5b66\u4e1c\u8def35\u53f7(\u5e7f\u897f\u5927\u5b66\u6b63\u5bf9\u9762)", "area": "70\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u701a\u6797\u5b66\u5e9c", "city": "\u5357\u5b81", "rooms": ["1\u5c45"], "origin_url": "https://hanlinxuefu0771.fang.com/", "price": "14000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u6c38\u548c\u8def19\u53f7(\u701a\u6797\u65b0\u57ce\u65c1)", "area": "103\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u5965\u56ed\u6c38\u548c\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45"], "origin_url": "https://yonghefuay.fang.com/", "price": "11700\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u534e\u897f\u8def38\u53f7(\u706b\u8f66\u7ad9\u5f80\u897f300\u7c73)", "area": "81~138\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u5927\u548c\u5e73\u534e\u897f\u8317\u57ce", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://huaximingchengdhp.fang.com/", "price": "\u4ef7\u683c\u5f85\u5b9a", "sale": "\u5f85\u552e"}, {"address": "\u897f\u4e61\u5858\u5927\u5b66\u897f\u8def9\u53f7(\u5730\u94c11\u53f7\u7ebf\u897f\u4e61\u5858\u5ba2\u8fd0\u7ad9\u7ad9\u70b9c\u51fa\u53e3\u9644\u8fd1)", "area": "39~67\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u4e2d\u6881\u67cf\u4ed5\u516c\u9986", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45"], "origin_url": "https://baishigongguanzl.fang.com/", "price": "8288\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u5317\u6e56\u5317\u8def57\u53f7", "area": "95~125\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u5927\u5510\u4e16\u8302\u5929\u60a6", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://datangtianyue.fang.com/", "price": "11000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u897f\u4e61\u5858\u53ef\u6797\u8def9\u53f7", "area": "85~115\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u897f\u4e61\u5858", "name": "\u91d1\u79d1\u5929\u7c41\u57ce", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://tianlaichengjk0771.fang.com/", "price": "11000\u5143/\u33a1", "sale": "\u5728\u552e"}], "null": [{"address": null, "area": "", "province": "\u5e7f\u897f", "district": null, "name": null, "city": "\u5357\u5b81", "rooms": [], "origin_url": "https://nn.newhouse.fang.com/house/s/", "price": "", "sale": null}], "\u9752\u79c0": [{"address": "\u9752\u79c0\u6842\u6d77\u5916\u73af\u9ad8\u901f\u4e1c\u4fa7\u3001\u51e4\u5cad\u5357\u8def\u5357\u4fa7", "area": "98~140\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u7f8e\u7684\u60a6\u6c5f\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://yuejiangfumd0771.fang.com/", "price": "\u4ef7\u683c\u5f85\u5b9a", "sale": "\u5f85\u552e"}, {"address": "\u9752\u79c0\u51e4\u5cad\u5357\u8def16\u53f7(\u51e4\u5cad\u5357\u8def\u4e0e\u9752\u73af\u8def\u4ea4\u4f1a\u5904)", "area": "76~171\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u4fdd\u5229\u9886\u79c0\u524d\u57ce", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://lingxiuqianchengbl.fang.com/", "price": "15000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u51e4\u5cad\u5357\u8def16\u53f7", "area": "127~175\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u4fdd\u5229\u51a0\u6c5f\u5885", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://guanjiangshubl.fang.com/", "price": "20000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u4e1c\u845b\u8def117\u53f7", "area": "87~144\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u9f99\u5149\u7396\u73d1\u534e\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://jiulonghuafulg.fang.com/", "price": "17000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u4ed9\u846b\u5927\u9053\u4e2d9\u53f7(\u4ed9\u846b\u5927\u9053\u4e0e\u9f99\u5c97\u5927\u9053\u4ea4\u4f1a\u5904\u4ee5\u4e1c\u7ea6900\u7c73)", "area": "101~182\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u5929\u6c60\u5c71.\u4e2d\u810a", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://tianchishan.fang.com/", "price": "8500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u51e4\u5cad\u5357\u8def22\u53f7", "area": "30\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u5e7f\u6e90\u51e4\u5cad\u58f9\u53f7\u9662", "city": "\u5357\u5b81", "rooms": ["2\u5c45"], "origin_url": "https://fenglingyihaoyuangy.fang.com/", "price": "23000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u5409\u7965\u8def\u51e4\u5cad\u5317\u8def\u53e3", "area": "43~125\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u8363\u548c\u4e1c\u7ad9\u57ce\u5e02\u5e7f\u573a", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45"], "origin_url": "https://dongzhanchengshiguangchangrh.fang.com/", "price": "14000\u5143/\u33a1\u8d77", "sale": "\u5f85\u552e"}, {"address": "\u9752\u79c0\u6c11\u65cf\u5927\u9053168\u53f7", "area": "89~285\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u7fe1\u7fe0\u65f6\u5149", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://feicuishiguangzf.fang.com/", "price": "14500\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u5408\u5761\u8def18\u53f7", "area": "93~136\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u878d\u521b\u4e5d\u7199\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://jiuxifurc.fang.com/", "price": "11500\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u9752\u73af\u8def82\u53f7", "area": "97~204\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u5510\u6a3e\u9752\u5c71", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://tangyueqingshan.fang.com/", "price": "14000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u51e4\u5cad\u5357\u8def36\u53f7(\u51e4\u5cad\u5357\u8def\u4e0e\u5f00\u6cf0\u8def\u4ea4\u53c9\u53e3)", "area": "95~130\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u94f6\u6cb3\u9f99\u6e56.\u6c5f\u4e0e\u57ce", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://jiangyuchengyh.fang.com/", "price": "12500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u5f00\u6cf0\u8def180\u53f7", "area": "96~183\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u9f99\u5149\u5929\u66dc", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://longguangtianyao.fang.com/", "price": "13000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u4f5b\u5b50\u5cad\u8def28\u53f7(\u4f5b\u5b50\u5cad\u8def\u4e0e\u51e4\u51f0\u5cad\u8def\u4ea4\u4f1a\u5904)", "area": "141~188\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u9716\u5cf0\u58f9\u865f", "city": "\u5357\u5b81", "rooms": ["1\u5c45", "5\u5c45"], "origin_url": "https://linfengyihao.fang.com/", "price": "16000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u9ad8\u5761\u5cad\u8def3\u53f7(\u8ddd\u8f68\u9053\u4ea4\u901a1\u53f7\u7ebf\u767e\u82b1\u5cad\u7ad9b\u51fa\u53e3\u7ea610\u7c73)", "area": "83~143\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u4e1c\u65b9.\u5c0a\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://dongfangzunfu.fang.com/", "price": "15000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u957f\u8679\u8def5\u53f7( \u53a2\u7af9\u7acb\u4ea4\u4e0e\u957f\u8679\u8def\u4ea4\u6c47\u5904\u5f80\u4e1c\u7ea6600\u7c73)", "area": "92~143\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u8363\u548c\u60a6\u6f9c\u5c71", "city": "\u5357\u5b81", "rooms": ["3\u5c45"], "origin_url": "https://yuelanshanrh.fang.com/", "price": "15000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u8354\u6ee8\u5927\u90536\u53f7(\u4e94\u8c61\u5927\u6865\u5317\u6865\u5934\u4ee5\u897f\u5357\u65b9\u5411\u7ea6500\u7c73)", "area": "131~144\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u534e\u53d1\u56fd\u5bbe\u58f9\u53f7", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://guobinyihaohf.fang.com/", "price": "17000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u94dc\u9f13\u5cad\u8def5\u53f7", "area": "169~236\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u5927\u5510\u81fb\u89c2", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://datangzhenguan.fang.com/", "price": "20000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u4e1c\u845b\u8def161\u53f7( \u9752\u79c0\u4e07\u8fbe\u5bf9\u9762 )", "area": "", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u7eff\u5730\u4e2d\u592e\u5e7f\u573a", "city": "\u5357\u5b81", "rooms": [], "origin_url": "https://lvdizhongyangguangchang0771.fang.com/", "price": "15000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u67f3\u6c99\u534a\u5c9b\u8354\u6ee8\u5927\u905328\u53f7(\u533a\u515a\u6821\u65c1)", "area": "146~337\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u4fdd\u5229\u541b\u60a6\u6e7e", "city": "\u5357\u5b81", "rooms": ["4\u5c45"], "origin_url": "https://junyuewanbl.fang.com/", "price": "30000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u51e4\u5cad\u5357\u8def\u5357\u4fa7\u3001\u6842\u6d77\u5916\u73af\u9ad8\u901f\u4e1c\u4fa7", "area": "33~118\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u4e2d\u56fd\u94c1\u5efa\u51e4\u5cad\u56fd\u9645\u57ce", "city": "\u5357\u5b81", "rooms": ["1\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://fenglingguojichengzgtj.fang.com/", "price": "11998\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u67f3\u6c99\u56fd\u5bbe\u534a\u5c9b\u67f3\u56ed\u8def1\u53f7", "area": "128~190\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u9633\u5149\u57ce\u6c5f\u5c71\u749f\u539f", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://jiangshanjingyuanygc.fang.com/", "price": "23000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u51e4\u666f\u8def6\u53f7(\u51e4\u51f0\u5cad\u8def\u4e0e\u4e91\u666f\u8def\u4ea4\u6c47\u5904)", "area": "184~222\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u4e2d\u56fd\u94c1\u5efa\u4e91\u666f\u5c71\u8bed\u57ce", "city": "\u5357\u5b81", "rooms": ["5\u5c45"], "origin_url": "https://yunjingshanyuchengzgtj.fang.com/", "price": "20000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9752\u79c0\u6842\u82b1\u8def5\u53f7", "area": "169~184\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9752\u79c0", "name": "\u5929\u660c\u9752\u5c71\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://qingshanfutc.fang.com/", "price": "22000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}], "\u9095\u5b81": [{"address": "\u9095\u5b81\u65b0\u9095\u8def7\u53f7(\u4e07\u8fbe\u8302\u65c1)", "area": "83~139\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u5357\u5b81\u6052\u5927\u60a6\u9f99\u53f0", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://yuelongtaihd0771.fang.com/", "price": "13500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9095\u5b81\u65b0\u575b\u8def2\u53f7", "area": "122~171\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u4e2d\u6d77\u54c8\u7f57\u5b66\u5e9c", "city": "\u5357\u5b81", "rooms": ["4\u5c45"], "origin_url": "https://haluoxuefuzh.fang.com/", "price": "12000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9095\u5b81\u4e07\u8fbe\u8302\u65c1\u3001\u5229\u798f\u8def19\u53f7(\u5728\u5efa)", "area": "70~135\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u9f99\u5149\u7396\u73d1\u6e7e", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://jiulongwanlg0771.fang.com/", "price": "\u4ef7\u683c\u5f85\u5b9a", "sale": "\u5f85\u552e"}, {"address": "\u9095\u5b81\u9f99\u7965\u8def38\u53f7(\u9f99\u5c97\u5927\u9053\u4e1c\u4fa7)", "area": "138~166\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u5927\u5510\u76db\u4e16", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://datangshengshi0771.fang.com/", "price": "8500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9095\u5b81\u65b0\u5761\u8def289\u53f7", "area": "96~125\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u76db\u6e56\u60a6\u666f", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://shenghuyuejing.fang.com/", "price": "11000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9095\u5b81\u6c5f\u6e7e\u8def6\u53f7(\u9f99\u5c97\u5927\u6865\u5411\u897f800\u7c73)", "area": "174\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u9633\u5149\u57ce\u4e3d\u666f\u6e7e", "city": "\u5357\u5b81", "rooms": ["5\u5c45"], "origin_url": "https://feiliwanygc0771.fang.com/", "price": "12000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u9095\u5b81\u65b0\u9095\u8def3\u53f7(\u4e07\u8fbe\u8302\u65c1)", "area": "99~129\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u65b0\u57ce\u60a6\u96bd\u98ce\u534e", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://yuejunfenghuaxc.fang.com/", "price": "11600\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9095\u5b81\u6c38\u798f\u8def33\u53f7", "area": "47~115\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u542f\u8fea\u4eae2\u671f\u79d1\u6280\u516c\u5bd3", "city": "\u5357\u5b81", "rooms": ["1\u5c45", "2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://dongmengkejichengqdnn.fang.com/", "price": "10900\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9095\u5b81\u9f99\u534e\u8def68\u53f7(\u9f99\u5c97\u5927\u6865\u65c1)", "area": "96~139\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u9f99\u5ead\u6c34\u5cb8", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://longtingshuian0771.fang.com/", "price": "8900\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u9095\u5b81\u9f99\u5c97\u5927\u90539\u53f7(\u9f99\u5c97\u5927\u9053\u4e0e\u9f99\u534e\u8def\u4ea4\u4f1a\u5904)", "area": "60\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u5357\u5b81\u5b9d\u80fd\u57ce\u5e02\u5e7f\u573a", "city": "\u5357\u5b81", "rooms": ["2\u5c45"], "origin_url": "https://baonengchengshiguangchang0771.fang.com/", "price": "9800\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9095\u5b81\u9f99\u534e\u8def16\u53f7", "area": "102~142\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u84dd\u5149\u96cd\u9526\u6f9c\u6e7e", "city": "\u5357\u5b81", "rooms": ["4\u5c45"], "origin_url": "https://yongjinlanwanlg.fang.com/", "price": "13500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u9095\u5b81\u9f99\u534e\u8def\u4e0e\u90a3\u9020\u8def\u4ea4\u4f1a\u5904", "area": "95~128\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u9095\u5b81", "name": "\u91d1\u79d1\u535a\u7fe0\u5929\u5bb8", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://bocuitianchenjk0771.fang.com/", "price": "13500\u5143/\u33a1", "sale": "\u5728\u552e"}], "\u6b66\u9e23": [{"address": "\u6b66\u9e23\u4e1c\u76df\u7ecf\u6d4e\u5f00\u53d1\u533a\u91cc\u5efa\u5927\u9053\u4e0e\u4eba\u6c11\u8def\u4ea4\u4f1a\u5904", "area": "95~199\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6b66\u9e23", "name": "\u7eff\u5730\u4e1c\u76df\u56fd\u9645\u57ce", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://dongmengguojichengld.fang.com/", "price": "5600\u5143/\u33a1", "sale": "\u5f85\u552e"}, {"address": "\u6b66\u9e23\u5357\u6b66\u57ce\u5e02\u5927\u9053\u4e2d\u6bb5(\u4f0a\u5cad\u5ca9\u5317100\u7c73)", "area": "96~280\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6b66\u9e23", "name": "\u6c5f\u5b87\u68a6\u60f3\u5c0f\u9547\u82b1\u6d77\u57ce", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://mengxiangxiaozhenjy.fang.com/", "price": "5800\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6b66\u9e23\u53cc\u6865\u9547\u4f0f\u6797\u6751\u6562\u5e9a\u5c6f88\u53f7(\u5357\u5b81\u82b1\u82b1\u5927\u4e16\u754c\u56fd\u5bb64a\u7ea7\u666f\u533a\u4e1c\u4fa7)", "area": "75~142\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6b66\u9e23", "name": "\u62db\u5546\u5341\u91cc\u4e91\u88f3", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://shiliyunchangzs.fang.com/", "price": "5500\u5143/\u33a1", "sale": "\u5728\u552e"}], "\u6c5f\u5357": [{"address": "\u6c5f\u5357\u9526\u5bcc\u8def6\u53f7", "area": "68~116\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u9526\u4e0a\u57ce", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://jinshangcheng0771.fang.com/", "price": "11000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u4ead\u6d2a\u8def58\u53f7(\u5730\u94c12\u53f7\u7ebf\u4ead\u6d2a\u7ad9\u53e3)", "area": "40~145\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u632f\u5b81\u661f\u5149\u5e7f\u573a", "city": "\u5357\u5b81", "rooms": ["1\u5c45", "2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://xingguangguangchangzn.fang.com/", "price": "13000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u767d\u6c99\u5927\u905357\u53f7", "area": "73~138\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u9f99\u5149\u7396\u8a89\u57ce", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://jiuyuchenglg.fang.com/", "price": "12000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u767d\u6c99\u5927\u90538\u53f7", "area": "99~143\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u51ef\u65cb1\u53f7\u4e0a\u6c34\u6e7e", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://kaixuan1haoshangshuiwan.fang.com/", "price": "12000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u767d\u6c99\u5927\u9053128-8\u53f7", "area": "31~111\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u9526\u60a6\u6c5f\u5357", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://jinyuejiangnan.fang.com/", "price": "9800\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u4e0b\u6d25\u8def68\u53f7(\u4e09\u6d25\u5927\u9053\u4e0e\u4e0b\u6d25\u8def\u4ea4\u4f1a\u5904)", "area": "80~124\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u4e2d\u5efa\u9095\u548c\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://yonghefuzj.fang.com/", "price": "8400\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u6c5f\u5357\u5927\u9053\u4ec1\u4e49\u6bb5113\u53f7(\u6e05\u5ddd\u5927\u6865\u897f\u4fa7)", "area": "76~135\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u4e2d\u5357\u6625\u98ce\u5357\u5cb8", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://chunfengnananzn0771.fang.com/", "price": "9800\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u661f\u5149\u5927\u905338\u53f7", "area": "114~220\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u534e\u6da6\u7f6e\u5730.\u897f\u56ed\u60a6\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://xiyuanyuefuhr.fang.com/", "price": "15000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u667a\u548c\u8def6\u53f7(\u6c99\u4e95\u5927\u9053\u4e0e\u667a\u548c\u8def\u4ea4\u4f1a\u5904)", "area": "70~153\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u9f99\u5149\u6c5f\u5357\u9662\u5b50", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://jiangnanyuanzilg.fang.com/", "price": "9500\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u90a3\u6d2a\u5927\u905333\u53f7", "area": "88~142\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u5929\u5065\u548c\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://tianjianhefu.fang.com/", "price": "11000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u5149\u660e\u5317\u8def36\u53f7", "area": "104~130\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u5c71\u6e56\u6d77\u4e0a\u57ce", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://shangchengshh.fang.com/", "price": "6200\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u9526\u5bcc\u8def8\u53f7", "area": "73~117\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u91d1\u6210\u6c5f\u5357\u58f9\u54c1", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://jiangnanyipinjc.fang.com/", "price": "10000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u4ec1\u548c\u8def55\u53f7(\u51e4\u51f0\u6c5f\u7554)", "area": "54~129\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u8363\u548c\u516c\u56ed\u91cc", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://gongyuanlirh.fang.com/", "price": "10600\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u90a3\u6d2a\u5927\u905337\u53f7", "area": "78~118\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u5f70\u6cf0\u65b0\u65fa\u89d2", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://xinwangjiaozt.fang.com/", "price": "11000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u4ec1\u548c\u8def3\u53f7", "area": "75~110\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u91d1\u6e90\u82b1\u8bed\u90e1", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://huayujunjy.fang.com/", "price": "\u4ef7\u683c\u5f85\u5b9a", "sale": "\u5f85\u552e"}, {"address": "\u6c5f\u5357\u53cb\u8c0a\u8def\u4e1c\u4e00\u91cc3\u53f7", "area": "89~121\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u5927\u90fd\u90e1", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://dadujun.fang.com/", "price": "9500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u4ead\u6d2a\u8def48\u53f7(\u6c5f\u5357\u4e07\u8fbe\u65c1)", "area": "100\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u5965\u56ed\u701a\u5fb7\u68e0\u60a6\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45"], "origin_url": "https://tangyuefuayhd.fang.com/", "price": "12800\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u58ee\u9526\u5927\u90536\u53f7", "area": "89~107\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u5357\u5b81\u4e91\u661f\u94b1\u9686\u6c5f\u666f", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://qianlongjiangjingnnyx.fang.com/", "price": "10500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u660e\u9633\u5927\u905317\u53f7(\u660e\u9633\u5927\u9053\u4e0e\u5e08\u56ed\u8def\u4ea4\u4f1a\u5904)", "area": "75~132\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u60a6\u6842\u7eff\u5730\u65b0\u4e16\u754c", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://xinshijieygld.fang.com/", "price": "5500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u9f99\u6f6d\u8def19\u53f7", "area": "89~128\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u60a6\u6842\u878d\u521b\u4e91\u56fe\u4e4b\u57ce", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://yuehujuygrc.fang.com/", "price": "5300\u5143/\u33a1", "sale": "\u5f85\u552e"}, {"address": "\u6c5f\u5357\u5149\u660e\u5317\u8def99\u53f7", "area": "97~138\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u4e91\u661f\u94b1\u9686\u5fa1\u56ed", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://qianlongyuyuanyx.fang.com/", "price": "6800\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u6c5f\u5357\u58ee\u9526\u5927\u905316\u53f7(\u6c5f\u5357\u533a\u653f\u5e9c\u5bf9\u9762)", "area": "28~77\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u6c5f\u5357", "name": "\u6d77\u5409\u661f\u661f\u5ea7", "city": "\u5357\u5b81", "rooms": ["2\u5c45", "3\u5c45", "4\u5c45"], "origin_url": "https://xingzuohjx.fang.com/", "price": "8500\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}], "\u5174\u5b81": [{"address": "\u5174\u5b81\u6606\u4ed1\u5927\u9053995\u53f7(\u8f66\u7ba1\u6240\u4e09\u5858\u8003\u8bd5\u57fa\u5730\u5bf9\u9762)", "area": "108~216\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u5609\u548c\u57ce", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://jiahecheng0771.fang.com/", "price": "11000\u5143/\u33a1\u8d77", "sale": "\u5f85\u552e"}, {"address": "\u5174\u5b81\u90a3\u51b5\u8def19\u53f7", "area": "89~119\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u4e2d\u9f0e.\u516c\u56ed\u9996\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://gongyuanjiarinnzd.fang.com/", "price": "10500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u5408\u5761\u8def35\u53f7", "area": "29~118\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u9f99\u6e56-\u91d1\u79d1-\u76db\u5929.\u53c1\u4edf\u60a6", "city": "\u5357\u5b81", "rooms": ["1\u5c45", "4\u5c45"], "origin_url": "https://sanqianyue.fang.com/", "price": "\u4ef7\u683c\u5f85\u5b9a", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u90a3\u51b5\u8def1\u53f7", "area": "75~115\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u5174\u8fdb\u73fa\u5e9c", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://xingjinjunfu.fang.com/", "price": "10500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u90a3\u6cc9\u8def33\u53f7", "area": "126~199\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u8054\u53d1\u81fb\u5883", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://lianfazhenjing.fang.com/", "price": "10000\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u6606\u4ed1\u5927\u9053\u4e0e\u5e73\u4e91\u5927\u9053\u4ea4\u4f1a\u5904(\u5609\u548c\u57ce\u65c1)", "area": "89~251\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u5357\u5b81\u7eff\u5730\u57ce", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://lvdichengnn.fang.com/", "price": "8800\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u6606\u4ed1\u5927\u9053499\u53f7", "area": "113~449\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u534e\u590f\u9662\u5b50.\u749e\u9662", "city": "\u5357\u5b81", "rooms": ["4\u5c45"], "origin_url": "https://huaxiayuanzi.fang.com/", "price": "9500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u8679\u6865\u8def2\u53f7", "area": "138~165\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u5927\u5510\u5370\u8c61", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://datangyinxiang0771.fang.com/", "price": "12000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u71d5\u5b50\u4e0a\u5317\u4e94\u91cc28\u53f7", "area": "84~120\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u4e91\u73ba\u53f0", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45"], "origin_url": "https://yunxitai.fang.com/", "price": "10500\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u6606\u5cad\u8def16\u53f7(\u6606\u5cad\u8def\u4e0e\u90a3\u51b5\u8def\u4ea4\u4f1a\u5904)", "area": "143~180\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u4e07\u79d1\u7b2c\u4e94\u56ed", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://diwuyuanwk0771.fang.com/", "price": "13500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u5357\u68a7\u8def6\u53f7(\u72ee\u5c71\u516c\u56ed\u5357\u95e8\u5bf9\u9762)", "area": "127~135\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u5965\u56ed\u56ed\u8457", "city": "\u5357\u5b81", "rooms": ["4\u5c45", "5\u5c45"], "origin_url": "https://aoyuanyuanzhu.fang.com/", "price": "8300\u5143/\u33a1\u8d77", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u9095\u6b66\u8def20\u53f7( \u5c71\u6e10\u9752\u5c0f\u5b66\u897f\u4fa7 )", "area": "96~193\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u5c71\u6e10\u9752", "city": "\u5357\u5b81", "rooms": ["3\u5c45", "4\u5c45", "5\u5c45"], "origin_url": "https://shanjianqing.fang.com/", "price": "10500\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u4e09\u5858\u5357\u8def(\u5174\u5de5\u8def)90\u53f7", "area": "99~119\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u5927\u90fd\u516c\u9986", "city": "\u5357\u5b81", "rooms": ["3\u5c45"], "origin_url": "https://dadugongguan.fang.com/", "price": "9400\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u79c0\u53a2\u5927\u9053199\u53f7(\u5efa\u5174\u8def\u4e0e\u5174\u6842\u8def\u4ea4\u6c47\u5904\u4ee5\u4e1c\u7ea6150\u7c73)", "area": "112~138\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u91d1\u6e90\u4e00\u54c1\u5929\u4e0b", "city": "\u5357\u5b81", "rooms": ["4\u5c45"], "origin_url": "https://yipintianxiajy.fang.com/", "price": "12000\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u6606\u4ed1\u5927\u9053\u6e29\u6cc9\u8def19\u53f7( \u56fd\u60a6\u4e5d\u66f2\u6e7e\u8425\u9500\u4e2d\u5fc3 )", "area": "129~743\u5e73\u7c73", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u56fd\u60a6\u4e5d\u66f2\u6e7e", "city": "\u5357\u5b81", "rooms": ["5\u5c45"], "origin_url": "https://guoyuejiuquwan.fang.com/", "price": "9100\u5143/\u33a1", "sale": "\u5728\u552e"}, {"address": "\u5174\u5b81\u677e\u67cf\u8def15\u53f7", "area": "", "province": "\u5e7f\u897f", "district": "\u5174\u5b81", "name": "\u9f99\u5149\u7396\u8a89\u5e9c", "city": "\u5357\u5b81", "rooms": [], "origin_url": "https://jiuyufulg.fang.com/", "price": "\u4ef7\u683c\u5f85\u5b9a\u5f80\u671f10300\u5143/\u33a1", "sale": "\u5f85\u552e"}]}}
+{
+ "version": "1.0",
+ "results": {
+  "西乡塘": [
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘大学东路19号",
+    "name": "洋浦星",
+    "district": "西乡塘",
+    "price": "12500元/㎡",
+    "origin_url": "https://yangpuxing.fang.com/",
+    "area": "90~143平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘北湖北路东三里12号",
+    "name": "当代锦园ΜΟΜΛ",
+    "district": "西乡塘",
+    "price": "10500元/㎡",
+    "origin_url": "https://dangdaijinyuan.fang.com/",
+    "area": "55~114平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [
+     "1居",
+     "2居",
+     "3居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘大学东路162号",
+    "name": "峰巢",
+    "district": "西乡塘",
+    "price": "10888元/㎡起",
+    "origin_url": "https://fengchao0771.fang.com/",
+    "area": "63~131平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘发展大道66号 (华尔街工谷旁)",
+    "name": "中国铁建安吉山语城",
+    "district": "西乡塘",
+    "price": "12500元/㎡",
+    "origin_url": "https://anjishanyuchengzgtj.fang.com/",
+    "area": "99~178平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘北湖南路23号(卷烟厂对面)",
+    "name": "华润万象华府",
+    "district": "西乡塘",
+    "price": "12000元/㎡",
+    "origin_url": "https://wanxianghuafuhr.fang.com/",
+    "area": "110~142平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘永和路17号(瀚林新城旁)",
+    "name": "融创融公馆",
+    "district": "西乡塘",
+    "price": "10500元/㎡起",
+    "origin_url": "https://hanlinjincheng0771.fang.com/",
+    "area": "92~126平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘新峰路90号",
+    "name": "盛世金悦",
+    "district": "西乡塘",
+    "price": "9700元/㎡",
+    "origin_url": "https://shengshijinyue.fang.com/",
+    "area": "79~105平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘罗文大道与相思湖北路交会处(相思湖北路往前100米)",
+    "name": "龙湖春江天越",
+    "district": "西乡塘",
+    "price": "10350元/㎡",
+    "origin_url": "https://chunjiangtianyuelh0771.fang.com/",
+    "area": "88~109平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘北大北路28号(原北大客运中心旧址)",
+    "name": "建发鼎华北大珑廷",
+    "district": "西乡塘",
+    "price": "12000元/㎡",
+    "origin_url": "https://yuexijfdh.fang.com/",
+    "area": "73~128平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘新峰路与发展大道交会处",
+    "name": "冠利幸福苑",
+    "district": "西乡塘",
+    "price": "11200元/㎡",
+    "origin_url": "https://xingfuyuangl.fang.com/",
+    "area": "110~129平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘新阳路296-1号",
+    "name": "天健城天境",
+    "district": "西乡塘",
+    "price": "11000元/㎡",
+    "origin_url": "https://tianjiancheng.fang.com/",
+    "area": "89~165平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘明秀西路176号",
+    "name": "龙光水悦龙湾御江",
+    "district": "西乡塘",
+    "price": "10650元/㎡起",
+    "origin_url": "https://shuiyuelongwanyujianglg.fang.com/",
+    "area": "89~138平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘大学东路154号",
+    "name": "奥园瀚林誉江府",
+    "district": "西乡塘",
+    "price": "12000元/㎡起",
+    "origin_url": "https://yujiangfuayhl.fang.com/",
+    "area": "91~116平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "1居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘大学东路35号(广西大学正对面)",
+    "name": "瀚林学府",
+    "district": "西乡塘",
+    "price": "14000元/㎡",
+    "origin_url": "https://hanlinxuefu0771.fang.com/",
+    "area": "70平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘永和路19号(瀚林新城旁)",
+    "name": "奥园永和府",
+    "district": "西乡塘",
+    "price": "11700元/㎡",
+    "origin_url": "https://yonghefuay.fang.com/",
+    "area": "103平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘华西路38号(火车站往西300米)",
+    "name": "大和平华西茗城",
+    "district": "西乡塘",
+    "price": "价格待定",
+    "origin_url": "https://huaximingchengdhp.fang.com/",
+    "area": "81~138平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘大学西路9号(地铁1号线西乡塘客运站站点c出口附近)",
+    "name": "中梁柏仕公馆",
+    "district": "西乡塘",
+    "price": "8288元/㎡起",
+    "origin_url": "https://baishigongguanzl.fang.com/",
+    "area": "39~67平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘北湖北路57号",
+    "name": "大唐世茂天悦",
+    "district": "西乡塘",
+    "price": "11000元/㎡",
+    "origin_url": "https://datangtianyue.fang.com/",
+    "area": "95~125平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "西乡塘可林路9号",
+    "name": "金科天籁城",
+    "district": "西乡塘",
+    "price": "11000元/㎡",
+    "origin_url": "https://tianlaichengjk0771.fang.com/",
+    "area": "85~115平米",
+    "province": "广西"
+   }
+  ],
+  "良庆": [
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆那黄大道129号",
+    "name": "五象澜庭府",
+    "district": "良庆",
+    "price": "16000元/㎡",
+    "origin_url": "https://lantingfuwx.fang.com/",
+    "area": "70~125平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "良庆龙堤路1号",
+    "name": "盛邦滨江府",
+    "district": "良庆",
+    "price": "17000元/㎡起",
+    "origin_url": "https://binjiangfusb.fang.com/",
+    "area": "125~224平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆怡和路1-1号",
+    "name": "荣和半山华府",
+    "district": "良庆",
+    "price": "8500元/㎡起",
+    "origin_url": "https://banshanhuafurh.fang.com/",
+    "area": "69~142平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "良庆良玉大道与玉象路交会处",
+    "name": "路桥壮美山湖",
+    "district": "良庆",
+    "price": "13000元/㎡",
+    "origin_url": "https://zhuangmeishanhulq.fang.com/",
+    "area": "99~142平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆平乐大道35号(南宁三中五象校区斜对面)",
+    "name": "南宁宝能城",
+    "district": "良庆",
+    "price": "17000元/㎡起",
+    "origin_url": "https://wuxianghuyihaobn.fang.com/",
+    "area": "91~146平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "1居",
+     "2居",
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "良庆银海大道975-1号(银海大道与凤凰路交会处)",
+    "name": "祖龙ACMALL",
+    "district": "良庆",
+    "price": "12500元/㎡",
+    "origin_url": "https://zulongacmall.fang.com/",
+    "area": "39~120平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [],
+    "city": "南宁",
+    "address": "良庆五象大道658号(五象大道与飞龙路交会处)",
+    "name": "DK国际",
+    "district": "良庆",
+    "price": "9999元/㎡起",
+    "origin_url": "https://dkguoji.fang.com/",
+    "area": "",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "良庆龙堤路11号",
+    "name": "广源华府",
+    "district": "良庆",
+    "price": "15000元/㎡起",
+    "origin_url": "https://guangyuanhuafu.fang.com/",
+    "area": "93~265平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [
+     "2居",
+     "3居"
+    ],
+    "city": "南宁",
+    "address": "良庆银海大道1223-1号",
+    "name": "旭辉江山樾",
+    "district": "良庆",
+    "price": "价格待定",
+    "origin_url": "https://jiangshanyuexh0771.fang.com/",
+    "area": "75~125平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆良玉大道30号(南宁三中五象校区北门对面)",
+    "name": "彰泰府",
+    "district": "良庆",
+    "price": "19000元/㎡起",
+    "origin_url": "https://zhangtaifu.fang.com/",
+    "area": "99~192平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆南宁国际旅游度假区旁",
+    "name": "中南十洲",
+    "district": "良庆",
+    "price": "价格待定",
+    "origin_url": "https://zhongnanshizhou.fang.com/",
+    "area": "76~125平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆良庆大道9号(良庆大桥南)",
+    "name": "龙光玖誉湖",
+    "district": "良庆",
+    "price": "12500元/㎡",
+    "origin_url": "https://jiuyuhulg.fang.com/",
+    "area": "70~124平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "良庆平乐大道59号(平乐大道与华安路交会处)",
+    "name": "建工城",
+    "district": "良庆",
+    "price": "10500元/㎡",
+    "origin_url": "https://jiangongcheng.fang.com/",
+    "area": "88~142平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆坛洋路3号(五象四小对面)",
+    "name": "建发央玺",
+    "district": "良庆",
+    "price": "19000元/㎡起",
+    "origin_url": "https://jianfayangxi0771.fang.com/",
+    "area": "106~143平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆那良路16号",
+    "name": "印象愉景湾",
+    "district": "良庆",
+    "price": "10200元/㎡",
+    "origin_url": "https://yujingwanyx.fang.com/",
+    "area": "85~123平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆平乐大道与那丰路交会处",
+    "name": "阳光城大唐世家",
+    "district": "良庆",
+    "price": "11000元/㎡",
+    "origin_url": "https://yangguangchengdatangshijia.fang.com/",
+    "area": "70~108平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆平乐大道26号(平乐大道与凤凰路交会处)",
+    "name": "龙光天瀛",
+    "district": "良庆",
+    "price": "21500元/㎡",
+    "origin_url": "https://longguangtianying0771.fang.com/",
+    "area": "60~165平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "1居",
+     "2居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆平乐大道50号",
+    "name": "龙光玖珑郡",
+    "district": "良庆",
+    "price": "8300元/㎡",
+    "origin_url": "https://jiulongjunlg0771.fang.com/",
+    "area": "30~155平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居"
+    ],
+    "city": "南宁",
+    "address": "良庆玉洞大道76号",
+    "name": "合景叠翠峰",
+    "district": "良庆",
+    "price": "11900元/㎡起",
+    "origin_url": "https://diecuifenghj0771.fang.com/",
+    "area": "91~99平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆良兴路18号",
+    "name": "盛邦珑悦",
+    "district": "良庆",
+    "price": "12500元/㎡",
+    "origin_url": "https://shengbanglongyue.fang.com/",
+    "area": "108~128平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "良庆凤凰路188号",
+    "name": "金科博翠山",
+    "district": "良庆",
+    "price": "15000元/㎡",
+    "origin_url": "https://bocuishanjk.fang.com/",
+    "area": "100~143平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆龙堤路51号(南宁大桥旁·正望荔园山庄)",
+    "name": "江山御景",
+    "district": "良庆",
+    "price": "15000元/㎡",
+    "origin_url": "https://jiangshanyujing0771.fang.com/",
+    "area": "124~355平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "良庆五象大道450号(五象小学旁)",
+    "name": "汉军冠江台",
+    "district": "良庆",
+    "price": "13000元/㎡",
+    "origin_url": "https://guanjiangtaihj.fang.com/",
+    "area": "72~222平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "良庆玉洞大道30号(南宁市市图书馆旁)",
+    "name": "龙光天宸",
+    "district": "良庆",
+    "price": "17000元/㎡起",
+    "origin_url": "https://longguangtianque0771.fang.com/",
+    "area": "99~141平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [],
+    "city": "南宁",
+    "address": "良庆东风路51号(东风路和凤凰路交会处)",
+    "name": "五象湖金玖世家",
+    "district": "良庆",
+    "price": "价格待定",
+    "origin_url": "https://jinjiushijiawxh.fang.com/",
+    "area": "",
+    "province": "广西"
+   }
+  ],
+  "青秀": [
+   {
+    "sale": "待售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "青秀桂海外环高速东侧、凤岭南路南侧",
+    "name": "美的悦江府",
+    "district": "青秀",
+    "price": "价格待定",
+    "origin_url": "https://yuejiangfumd0771.fang.com/",
+    "area": "98~140平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀凤岭南路16号(凤岭南路与青环路交会处)",
+    "name": "保利领秀前城",
+    "district": "青秀",
+    "price": "15000元/㎡",
+    "origin_url": "https://lingxiuqianchengbl.fang.com/",
+    "area": "76~171平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀凤岭南路16号",
+    "name": "保利冠江墅",
+    "district": "青秀",
+    "price": "20000元/㎡起",
+    "origin_url": "https://guanjiangshubl.fang.com/",
+    "area": "127~175平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "青秀东葛路117号",
+    "name": "龙光玖珑华府",
+    "district": "青秀",
+    "price": "17000元/㎡",
+    "origin_url": "https://jiulonghuafulg.fang.com/",
+    "area": "87~144平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀仙葫大道中9号(仙葫大道与龙岗大道交会处以东约900米)",
+    "name": "天池山.中脊",
+    "district": "青秀",
+    "price": "8500元/㎡",
+    "origin_url": "https://tianchishan.fang.com/",
+    "area": "101~182平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居"
+    ],
+    "city": "南宁",
+    "address": "青秀凤岭南路22号",
+    "name": "广源凤岭壹号院",
+    "district": "青秀",
+    "price": "23000元/㎡",
+    "origin_url": "https://fenglingyihaoyuangy.fang.com/",
+    "area": "30平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [
+     "2居",
+     "3居"
+    ],
+    "city": "南宁",
+    "address": "青秀吉祥路凤岭北路口",
+    "name": "荣和东站城市广场",
+    "district": "青秀",
+    "price": "14000元/㎡起",
+    "origin_url": "https://dongzhanchengshiguangchangrh.fang.com/",
+    "area": "43~125平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀民族大道168号",
+    "name": "翡翠时光",
+    "district": "青秀",
+    "price": "14500元/㎡起",
+    "origin_url": "https://feicuishiguangzf.fang.com/",
+    "area": "89~285平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "青秀合坡路18号",
+    "name": "融创九熙府",
+    "district": "青秀",
+    "price": "11500元/㎡起",
+    "origin_url": "https://jiuxifurc.fang.com/",
+    "area": "93~136平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀青环路82号",
+    "name": "唐樾青山",
+    "district": "青秀",
+    "price": "14000元/㎡",
+    "origin_url": "https://tangyueqingshan.fang.com/",
+    "area": "97~204平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "青秀凤岭南路36号(凤岭南路与开泰路交叉口)",
+    "name": "银河龙湖.江与城",
+    "district": "青秀",
+    "price": "12500元/㎡",
+    "origin_url": "https://jiangyuchengyh.fang.com/",
+    "area": "95~130平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀开泰路180号",
+    "name": "龙光天曜",
+    "district": "青秀",
+    "price": "13000元/㎡起",
+    "origin_url": "https://longguangtianyao.fang.com/",
+    "area": "96~183平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "1居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀佛子岭路28号(佛子岭路与凤凰岭路交会处)",
+    "name": "霖峰壹號",
+    "district": "青秀",
+    "price": "16000元/㎡起",
+    "origin_url": "https://linfengyihao.fang.com/",
+    "area": "141~188平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀高坡岭路3号(距轨道交通1号线百花岭站b出口约10米)",
+    "name": "东方.尊府",
+    "district": "青秀",
+    "price": "15000元/㎡",
+    "origin_url": "https://dongfangzunfu.fang.com/",
+    "area": "83~143平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居"
+    ],
+    "city": "南宁",
+    "address": "青秀长虹路5号( 厢竹立交与长虹路交汇处往东约600米)",
+    "name": "荣和悦澜山",
+    "district": "青秀",
+    "price": "15000元/㎡",
+    "origin_url": "https://yuelanshanrh.fang.com/",
+    "area": "92~143平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀荔滨大道6号(五象大桥北桥头以西南方向约500米)",
+    "name": "华发国宾壹号",
+    "district": "青秀",
+    "price": "17000元/㎡起",
+    "origin_url": "https://guobinyihaohf.fang.com/",
+    "area": "131~144平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀铜鼓岭路5号",
+    "name": "大唐臻观",
+    "district": "青秀",
+    "price": "20000元/㎡起",
+    "origin_url": "https://datangzhenguan.fang.com/",
+    "area": "169~236平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [],
+    "city": "南宁",
+    "address": "青秀东葛路161号( 青秀万达对面 )",
+    "name": "绿地中央广场",
+    "district": "青秀",
+    "price": "15000元/㎡",
+    "origin_url": "https://lvdizhongyangguangchang0771.fang.com/",
+    "area": "",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "青秀柳沙半岛荔滨大道28号(区党校旁)",
+    "name": "保利君悦湾",
+    "district": "青秀",
+    "price": "30000元/㎡",
+    "origin_url": "https://junyuewanbl.fang.com/",
+    "area": "146~337平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "1居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "青秀凤岭南路南侧、桂海外环高速东侧",
+    "name": "中国铁建凤岭国际城",
+    "district": "青秀",
+    "price": "11998元/㎡",
+    "origin_url": "https://fenglingguojichengzgtj.fang.com/",
+    "area": "33~118平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "青秀柳沙国宾半岛柳园路1号",
+    "name": "阳光城江山璟原",
+    "district": "青秀",
+    "price": "23000元/㎡",
+    "origin_url": "https://jiangshanjingyuanygc.fang.com/",
+    "area": "128~190平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "青秀凤景路6号(凤凰岭路与云景路交汇处)",
+    "name": "中国铁建云景山语城",
+    "district": "青秀",
+    "price": "20000元/㎡",
+    "origin_url": "https://yunjingshanyuchengzgtj.fang.com/",
+    "area": "184~222平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "青秀桂花路5号",
+    "name": "天昌青山府",
+    "district": "青秀",
+    "price": "22000元/㎡起",
+    "origin_url": "https://qingshanfutc.fang.com/",
+    "area": "169~184平米",
+    "province": "广西"
+   }
+  ],
+  "江南": [
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南锦富路6号",
+    "name": "锦上城",
+    "district": "江南",
+    "price": "11000元/㎡",
+    "origin_url": "https://jinshangcheng0771.fang.com/",
+    "area": "68~116平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "1居",
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南亭洪路58号(地铁2号线亭洪站口)",
+    "name": "振宁星光广场",
+    "district": "江南",
+    "price": "13000元/㎡",
+    "origin_url": "https://xingguangguangchangzn.fang.com/",
+    "area": "40~145平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "江南白沙大道57号",
+    "name": "龙光玖誉城",
+    "district": "江南",
+    "price": "12000元/㎡",
+    "origin_url": "https://jiuyuchenglg.fang.com/",
+    "area": "73~138平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "江南白沙大道8号",
+    "name": "凯旋1号上水湾",
+    "district": "江南",
+    "price": "12000元/㎡起",
+    "origin_url": "https://kaixuan1haoshangshuiwan.fang.com/",
+    "area": "99~143平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南白沙大道128-8号",
+    "name": "锦悦江南",
+    "district": "江南",
+    "price": "9800元/㎡",
+    "origin_url": "https://jinyuejiangnan.fang.com/",
+    "area": "31~111平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南下津路68号(三津大道与下津路交会处)",
+    "name": "中建邕和府",
+    "district": "江南",
+    "price": "8400元/㎡起",
+    "origin_url": "https://yonghefuzj.fang.com/",
+    "area": "80~124平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南江南大道仁义段113号(清川大桥西侧)",
+    "name": "中南春风南岸",
+    "district": "江南",
+    "price": "9800元/㎡",
+    "origin_url": "https://chunfengnananzn0771.fang.com/",
+    "area": "76~135平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "江南星光大道38号",
+    "name": "华润置地.西园悦府",
+    "district": "江南",
+    "price": "15000元/㎡起",
+    "origin_url": "https://xiyuanyuefuhr.fang.com/",
+    "area": "114~220平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南智和路6号(沙井大道与智和路交会处)",
+    "name": "龙光江南院子",
+    "district": "江南",
+    "price": "9500元/㎡起",
+    "origin_url": "https://jiangnanyuanzilg.fang.com/",
+    "area": "70~153平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "江南那洪大道33号",
+    "name": "天健和府",
+    "district": "江南",
+    "price": "11000元/㎡起",
+    "origin_url": "https://tianjianhefu.fang.com/",
+    "area": "88~142平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南光明北路36号",
+    "name": "山湖海上城",
+    "district": "江南",
+    "price": "6200元/㎡",
+    "origin_url": "https://shangchengshh.fang.com/",
+    "area": "104~130平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南锦富路8号",
+    "name": "金成江南壹品",
+    "district": "江南",
+    "price": "10000元/㎡",
+    "origin_url": "https://jiangnanyipinjc.fang.com/",
+    "area": "73~117平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南仁和路55号(凤凰江畔)",
+    "name": "荣和公园里",
+    "district": "江南",
+    "price": "10600元/㎡",
+    "origin_url": "https://gongyuanlirh.fang.com/",
+    "area": "54~129平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南那洪大道37号",
+    "name": "彰泰新旺角",
+    "district": "江南",
+    "price": "11000元/㎡",
+    "origin_url": "https://xinwangjiaozt.fang.com/",
+    "area": "78~118平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南仁和路3号",
+    "name": "金源花语郡",
+    "district": "江南",
+    "price": "价格待定",
+    "origin_url": "https://huayujunjy.fang.com/",
+    "area": "75~110平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南友谊路东一里3号",
+    "name": "大都郡",
+    "district": "江南",
+    "price": "9500元/㎡",
+    "origin_url": "https://dadujun.fang.com/",
+    "area": "89~121平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居"
+    ],
+    "city": "南宁",
+    "address": "江南亭洪路48号(江南万达旁)",
+    "name": "奥园瀚德棠悦府",
+    "district": "江南",
+    "price": "12800元/㎡",
+    "origin_url": "https://tangyuefuayhd.fang.com/",
+    "area": "100平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南壮锦大道6号",
+    "name": "南宁云星钱隆江景",
+    "district": "江南",
+    "price": "10500元/㎡",
+    "origin_url": "https://qianlongjiangjingnnyx.fang.com/",
+    "area": "89~107平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南明阳大道17号(明阳大道与师园路交会处)",
+    "name": "悦桂绿地新世界",
+    "district": "江南",
+    "price": "5500元/㎡",
+    "origin_url": "https://xinshijieygld.fang.com/",
+    "area": "75~132平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南龙潭路19号",
+    "name": "悦桂融创云图之城",
+    "district": "江南",
+    "price": "5300元/㎡",
+    "origin_url": "https://yuehujuygrc.fang.com/",
+    "area": "89~128平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南光明北路99号",
+    "name": "云星钱隆御园",
+    "district": "江南",
+    "price": "6800元/㎡",
+    "origin_url": "https://qianlongyuyuanyx.fang.com/",
+    "area": "97~138平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "江南壮锦大道16号(江南区政府对面)",
+    "name": "海吉星星座",
+    "district": "江南",
+    "price": "8500元/㎡起",
+    "origin_url": "https://xingzuohjx.fang.com/",
+    "area": "28~77平米",
+    "province": "广西"
+   }
+  ],
+  "null": [
+   {
+    "sale": null,
+    "rooms": [],
+    "city": "南宁",
+    "address": null,
+    "name": null,
+    "district": null,
+    "price": "",
+    "origin_url": "https://nn.newhouse.fang.com/house/s/",
+    "area": "",
+    "province": "广西"
+   }
+  ],
+  "邕宁": [
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "邕宁新邕路7号(万达茂旁)",
+    "name": "南宁恒大悦龙台",
+    "district": "邕宁",
+    "price": "13500元/㎡",
+    "origin_url": "https://yuelongtaihd0771.fang.com/",
+    "area": "83~139平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "邕宁新坛路2号",
+    "name": "中海哈罗学府",
+    "district": "邕宁",
+    "price": "12000元/㎡",
+    "origin_url": "https://haluoxuefuzh.fang.com/",
+    "area": "122~171平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "邕宁万达茂旁、利福路19号(在建)",
+    "name": "龙光玖珑湾",
+    "district": "邕宁",
+    "price": "价格待定",
+    "origin_url": "https://jiulongwanlg0771.fang.com/",
+    "area": "70~135平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "邕宁龙祥路38号(龙岗大道东侧)",
+    "name": "大唐盛世",
+    "district": "邕宁",
+    "price": "8500元/㎡",
+    "origin_url": "https://datangshengshi0771.fang.com/",
+    "area": "138~166平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "邕宁新坡路289号",
+    "name": "盛湖悦景",
+    "district": "邕宁",
+    "price": "11000元/㎡",
+    "origin_url": "https://shenghuyuejing.fang.com/",
+    "area": "96~125平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "邕宁江湾路6号(龙岗大桥向西800米)",
+    "name": "阳光城丽景湾",
+    "district": "邕宁",
+    "price": "12000元/㎡起",
+    "origin_url": "https://feiliwanygc0771.fang.com/",
+    "area": "174平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "邕宁新邕路3号(万达茂旁)",
+    "name": "新城悦隽风华",
+    "district": "邕宁",
+    "price": "11600元/㎡",
+    "origin_url": "https://yuejunfenghuaxc.fang.com/",
+    "area": "99~129平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "1居",
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "邕宁永福路33号",
+    "name": "启迪亮2期科技公寓",
+    "district": "邕宁",
+    "price": "10900元/㎡",
+    "origin_url": "https://dongmengkejichengqdnn.fang.com/",
+    "area": "47~115平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "邕宁龙华路68号(龙岗大桥旁)",
+    "name": "龙庭水岸",
+    "district": "邕宁",
+    "price": "8900元/㎡起",
+    "origin_url": "https://longtingshuian0771.fang.com/",
+    "area": "96~139平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居"
+    ],
+    "city": "南宁",
+    "address": "邕宁龙岗大道9号(龙岗大道与龙华路交会处)",
+    "name": "南宁宝能城市广场",
+    "district": "邕宁",
+    "price": "9800元/㎡",
+    "origin_url": "https://baonengchengshiguangchang0771.fang.com/",
+    "area": "60平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "邕宁龙华路16号",
+    "name": "蓝光雍锦澜湾",
+    "district": "邕宁",
+    "price": "13500元/㎡",
+    "origin_url": "https://yongjinlanwanlg.fang.com/",
+    "area": "102~142平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "邕宁龙华路与那造路交会处",
+    "name": "金科博翠天宸",
+    "district": "邕宁",
+    "price": "13500元/㎡",
+    "origin_url": "https://bocuitianchenjk0771.fang.com/",
+    "area": "95~128平米",
+    "province": "广西"
+   }
+  ],
+  "兴宁": [
+   {
+    "sale": "待售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "兴宁昆仑大道995号(车管所三塘考试基地对面)",
+    "name": "嘉和城",
+    "district": "兴宁",
+    "price": "11000元/㎡起",
+    "origin_url": "https://jiahecheng0771.fang.com/",
+    "area": "108~216平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "兴宁那况路19号",
+    "name": "中鼎.公园首府",
+    "district": "兴宁",
+    "price": "10500元/㎡",
+    "origin_url": "https://gongyuanjiarinnzd.fang.com/",
+    "area": "89~119平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "1居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "兴宁合坡路35号",
+    "name": "龙湖-金科-盛天.叁仟悦",
+    "district": "兴宁",
+    "price": "价格待定",
+    "origin_url": "https://sanqianyue.fang.com/",
+    "area": "29~118平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "兴宁那况路1号",
+    "name": "兴进珺府",
+    "district": "兴宁",
+    "price": "10500元/㎡",
+    "origin_url": "https://xingjinjunfu.fang.com/",
+    "area": "75~115平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "兴宁那泉路33号",
+    "name": "联发臻境",
+    "district": "兴宁",
+    "price": "10000元/㎡起",
+    "origin_url": "https://lianfazhenjing.fang.com/",
+    "area": "126~199平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "兴宁昆仑大道与平云大道交会处(嘉和城旁)",
+    "name": "南宁绿地城",
+    "district": "兴宁",
+    "price": "8800元/㎡",
+    "origin_url": "https://lvdichengnn.fang.com/",
+    "area": "89~251平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "兴宁昆仑大道499号",
+    "name": "华夏院子.璞院",
+    "district": "兴宁",
+    "price": "9500元/㎡",
+    "origin_url": "https://huaxiayuanzi.fang.com/",
+    "area": "113~449平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "兴宁虹桥路2号",
+    "name": "大唐印象",
+    "district": "兴宁",
+    "price": "12000元/㎡",
+    "origin_url": "https://datangyinxiang0771.fang.com/",
+    "area": "138~165平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "兴宁燕子上北五里28号",
+    "name": "云玺台",
+    "district": "兴宁",
+    "price": "10500元/㎡起",
+    "origin_url": "https://yunxitai.fang.com/",
+    "area": "84~120平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "兴宁昆岭路16号(昆岭路与那况路交会处)",
+    "name": "万科第五园",
+    "district": "兴宁",
+    "price": "13500元/㎡",
+    "origin_url": "https://diwuyuanwk0771.fang.com/",
+    "area": "143~180平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "兴宁南梧路6号(狮山公园南门对面)",
+    "name": "奥园园著",
+    "district": "兴宁",
+    "price": "8300元/㎡起",
+    "origin_url": "https://aoyuanyuanzhu.fang.com/",
+    "area": "127~135平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "兴宁邕武路20号( 山渐青小学西侧 )",
+    "name": "山渐青",
+    "district": "兴宁",
+    "price": "10500元/㎡",
+    "origin_url": "https://shanjianqing.fang.com/",
+    "area": "96~193平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居"
+    ],
+    "city": "南宁",
+    "address": "兴宁三塘南路(兴工路)90号",
+    "name": "大都公馆",
+    "district": "兴宁",
+    "price": "9400元/㎡",
+    "origin_url": "https://dadugongguan.fang.com/",
+    "area": "99~119平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "兴宁秀厢大道199号(建兴路与兴桂路交汇处以东约150米)",
+    "name": "金源一品天下",
+    "district": "兴宁",
+    "price": "12000元/㎡",
+    "origin_url": "https://yipintianxiajy.fang.com/",
+    "area": "112~138平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "兴宁昆仑大道温泉路19号( 国悦九曲湾营销中心 )",
+    "name": "国悦九曲湾",
+    "district": "兴宁",
+    "price": "9100元/㎡",
+    "origin_url": "https://guoyuejiuquwan.fang.com/",
+    "area": "129~743平米",
+    "province": "广西"
+   },
+   {
+    "sale": "待售",
+    "rooms": [],
+    "city": "南宁",
+    "address": "兴宁松柏路15号",
+    "name": "龙光玖誉府",
+    "district": "兴宁",
+    "price": "价格待定往期10300元/㎡",
+    "origin_url": "https://jiuyufulg.fang.com/",
+    "area": "",
+    "province": "广西"
+   }
+  ],
+  "武鸣": [
+   {
+    "sale": "待售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "武鸣东盟经济开发区里建大道与人民路交会处",
+    "name": "绿地东盟国际城",
+    "district": "武鸣",
+    "price": "5600元/㎡",
+    "origin_url": "https://dongmengguojichengld.fang.com/",
+    "area": "95~199平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "3居",
+     "4居",
+     "5居"
+    ],
+    "city": "南宁",
+    "address": "武鸣南武城市大道中段(伊岭岩北100米)",
+    "name": "江宇梦想小镇花海城",
+    "district": "武鸣",
+    "price": "5800元/㎡",
+    "origin_url": "https://mengxiangxiaozhenjy.fang.com/",
+    "area": "96~280平米",
+    "province": "广西"
+   },
+   {
+    "sale": "在售",
+    "rooms": [
+     "2居",
+     "3居",
+     "4居"
+    ],
+    "city": "南宁",
+    "address": "武鸣双桥镇伏林村敢庚屯88号(南宁花花大世界国家4a级景区东侧)",
+    "name": "招商十里云裳",
+    "district": "武鸣",
+    "price": "5500元/㎡",
+    "origin_url": "https://shiliyunchangzs.fang.com/",
+    "area": "75~142平米",
+    "province": "广西"
+   }
+  ]
+ },
+ "explain": {
+  "used": true,
+  "details": "this is FangTianXia new houese data on NanNing."
+ }
+}
