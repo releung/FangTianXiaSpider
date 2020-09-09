@@ -41,8 +41,9 @@ class HomeSpider(scrapy.Spider):
             city_links = city_id.xpath('.//a')
             for city_link in city_links:
                 city = city_link.xpath('.//text()').get()
-                if city != '南宁':
-                    print("忽略 ", city)
+                if city != '南宁' and city != '柳州' and city != '来宾' and city != '桂林':
+                #if city != '南宁':
+                    #print("忽略 ", city)
                     continue
                 print("不忽略 ", city)
                 city_url = city_link.xpath('.//@href').get()

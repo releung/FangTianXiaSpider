@@ -1,20 +1,6 @@
 import json
 from collections import defaultdict
-
-#with open('./newhouse.json', encoding='utf-8') as f:
-#    line = f.readline()
-#    d = json.loads(line)
-#    district = d['district']
-#    print(district)
-#   f.close()
-
-#file = open("./newhouse.json", 'r', encoding='utf-8')
-#for line in file.readlines():
-#    dic = json.loads(line)
-#    district = d['district']
-#    print(district)
-
-#f.close()
+from datetime import date
 
 filename = './newhouse.json'
 #将数据加载到一个列表中
@@ -29,12 +15,10 @@ index=0
 # 以分区名作为 key, 值是所有改分区的楼盘 json 数据
 # 方便以后做分区的价格图标
 new_info = defaultdict(list)
+district_info = defaultdict(list)
 
 p_list = defaultdict(list) # price
 n_list = defaultdict(list) # name
-
-
-#print(type(new_info), type(json_data))
 
 #打印信息
 for json_dict in json_data:
@@ -42,7 +26,7 @@ for json_dict in json_data:
     price = json_dict['price']
     name = json_dict['name']
     origin_url = json_dict['origin_url']
-    #print(format(district), name, price, origin_url)
+    #print(city, format(district), name, price, origin_url)
 
     p_list[district].append(price)
     n_list[district].append(name)
@@ -51,9 +35,15 @@ for json_dict in json_data:
         district_dict[district]+=1
     else:
         district_dict[district]=1
-    new_info[district].append((json_data[index]))
+    district_info[district].append((json_data[index]))
     index += 1
 
+# 将按照市区分类, 添加到按照城市分类中
+for d in district_info.items():
+    #print(len(d), "city:", d[1][0]['city'], "市区:", d[0])
+    new_info[d[1][0]['city']].append(d)
+
+#print(new_info)
 # 打印每个区楼盘个数统计
 #print(district_dict)
 
@@ -81,38 +71,48 @@ test_dict = {
   }
 }
 
-#print(type(test_dict), type(test_dict['results']))
+#print(type(test_dict), type(test_dict['results']), test_dict['results'])
 for res in test_dict['results'].items():
-    #print('\n', type(res))
-    if res is None:
-        print("res None")
-        continue
-    for r in res:
-        if isinstance(r, str):
-            # python3 end="" 不换行输出
-            # 打印市区名
-            print(r, end="区 ")
-        elif r is None:
-            print("None", end=" ")
-        elif isinstance(r, list):
-            # 打印时区对应的盘数量
-            print(len(r))
-            if len(r) >= 1:
-                # 打印其中一个
-                #print(r[0]['price'])
-                #print(json.dumps(r[len(r)-1], indent=1).encode('utf-8').decode('unicode_escape'))
-                # 打印所有
-                #print(json.dumps(r, indent=1).encode('utf-8').decode('unicode_escape'))
-                for i in r:
-                    if i['name'] is None or i['price'] is None:
-                        continue
-                    # 打印盘的 name 和 price, 格式化输出
-                    print('\t{0:<30}\t{1:<3}'.format(i['name'], i['price']))
-        else:
-            print("r type is ", type(r))
+    for districts in res:
+        if isinstance(districts, str):
+            #print("\n\n\n", districts, end = "市:\n")
+            continue
+        #print("市区个数:", len(districts))
+        #print("市: ", res[0])
+        filename = res[0]+"统计"+date.today().strftime("%Y_%m_%d")+".txt"
+        with open(filename, 'wt') as f:
+            print(res[0]+"市:", file = f)
+            for tmp in districts:
+                for r in tmp:
+                    if isinstance(r, str):
+                        # python3 end="" 不换行输出
+                        # 打印市区名
+                        if r[len(r)-1] == "区":
+                            print("\n\t", r, end=" ", file = f)
+                        else:
+                            print("\n\t", r, end="区 ", file = f)
+                    elif r is None:
+                        print("\n\tNone", end=" ", file = f)
+                    elif isinstance(r, list):
+                        # 打印时区对应的盘数量
+                        print("\t", len(r), file = f)
+                        if len(r) >= 1:
+                            # 打印其中一个
+                            #print(r[0]['price'])
+                            #print(json.dumps(r[len(r)-1], indent=1).encode('utf-8').decode('unicode_escape'))
+                            # 打印所有
+                            #print(json.dumps(r, indent=1).encode('utf-8').decode('unicode_escape'))
+                            for i in r:
+                                if i['name'] is None or i['price'] is None:
+                                    continue
+                                # 打印盘的 name 和 price, 格式化输出
+                                print('        {0:<30} {1:<20}'.format(i['name'], i['price']), file = f)
+                    else:
+                        print("r type is ", type(r), r)
 
 json_str = json.dumps(test_dict, indent=1) # 写入的是原始数据, 看不到中文的
 # json_str.encode('utf-8').decode('unicode_escape') 转换成显示正确中文字符
 #print("write date type:", type(json_str), json_str.encode('utf-8').decode('unicode_escape')
 with open('district_dict_data.json', 'w') as json_file:
     json_file.write(json_str.encode('utf-8').decode('unicode_escape'))
+
